@@ -1,0 +1,14 @@
+names:
+- Platelets
+- RBC
+- WBC
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: aml-wbc-classification
+  url: https://universe.roboflow.com/iu-msds-projects/aml-wbc-classification/dataset/2
+  version: 2
+  workspace: iu-msds-projects
+test: test/images
+train: train/images
+val: valid/images
