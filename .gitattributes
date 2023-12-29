@@ -1,2 +1,5 @@
 BoundingBoxModel/* linguist-documentation=false
+BoundingBoxModel/* linguist-vendored
+
 images/* linguist-documentation=false
+images/* linguist-vendored
