@@ -7,3 +7,9 @@ ResearchPaper.pdf contains a thorough writeup describing our methodology, experi
 FinalPresentation.pdf contains an overview of the project in power point format. 
 
 The other files in the repository represent the code for data preprocessing and exploration, the object detection model trained using the YOLOv8 framework, and the classification model trained using ResNet50. Additionally, the BoundingBoxModel folder contains the predicted bounding box coordinates and annotated images for the training, validation, and testing sets. It also includes the weights for the most successful YOLOv8 model. 
+
+Objective 1 Dataset (Bounding Box Model):
+https://github.com/Shenggan/BCCD_Dataset
+
+Objective 2 Dataset (WBC Classification):
+https://www.kaggle.com/datasets/paultimothymooney/blood
